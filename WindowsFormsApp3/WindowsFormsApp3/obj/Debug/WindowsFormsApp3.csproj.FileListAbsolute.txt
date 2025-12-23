@@ -1,0 +1,16 @@
+C:\Belajar API\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Belajar API\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Belajar API\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Belajar API\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EntityFramework.dll
+C:\Belajar API\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EntityFramework.xml
+C:\Belajar API\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Belajar API\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+C:\Belajar API\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Belajar API\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Belajar API\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Belajar API\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsF.90B8DF9B.Up2Date
+C:\Belajar API\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Belajar API\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Belajar API\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UserControl1.resources
+C:\Belajar API\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UserSession.resources
+C:\Belajar API\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UserControl2.resources

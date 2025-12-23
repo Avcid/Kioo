@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Belajar API\\WindowsFormsApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5A4DB5-EDEE-47C7-8C93-C1365C937D39}|WindowsFormsApp3\\WindowsFormsApp3.csproj|c:\\belajar api\\windowsformsapp3\\windowsformsapp3\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5A4DB5-EDEE-47C7-8C93-C1365C937D39}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5A4DB5-EDEE-47C7-8C93-C1365C937D39}|WindowsFormsApp3\\WindowsFormsApp3.csproj|c:\\belajar api\\windowsformsapp3\\windowsformsapp3\\usercontrol2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5A4DB5-EDEE-47C7-8C93-C1365C937D39}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\usercontrol2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5A4DB5-EDEE-47C7-8C93-C1365C937D39}|WindowsFormsApp3\\WindowsFormsApp3.csproj|c:\\belajar api\\windowsformsapp3\\windowsformsapp3\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{BD5A4DB5-EDEE-47C7-8C93-C1365C937D39}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5A4DB5-EDEE-47C7-8C93-C1365C937D39}|WindowsFormsApp3\\WindowsFormsApp3.csproj|c:\\belajar api\\windowsformsapp3\\windowsformsapp3\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD5A4DB5-EDEE-47C7-8C93-C1365C937D39}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5A4DB5-EDEE-47C7-8C93-C1365C937D39}|WindowsFormsApp3\\WindowsFormsApp3.csproj|c:\\belajar api\\windowsformsapp3\\windowsformsapp3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD5A4DB5-EDEE-47C7-8C93-C1365C937D39}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5A4DB5-EDEE-47C7-8C93-C1365C937D39}|WindowsFormsApp3\\WindowsFormsApp3.csproj|c:\\belajar api\\windowsformsapp3\\windowsformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5A4DB5-EDEE-47C7-8C93-C1365C937D39}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5A4DB5-EDEE-47C7-8C93-C1365C937D39}|WindowsFormsApp3\\WindowsFormsApp3.csproj|c:\\belajar api\\windowsformsapp3\\windowsformsapp3\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD5A4DB5-EDEE-47C7-8C93-C1365C937D39}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5A4DB5-EDEE-47C7-8C93-C1365C937D39}|WindowsFormsApp3\\WindowsFormsApp3.csproj|c:\\belajar api\\windowsformsapp3\\windowsformsapp3\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD5A4DB5-EDEE-47C7-8C93-C1365C937D39}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5A4DB5-EDEE-47C7-8C93-C1365C937D39}|WindowsFormsApp3\\WindowsFormsApp3.csproj|c:\\belajar api\\windowsformsapp3\\windowsformsapp3\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5A4DB5-EDEE-47C7-8C93-C1365C937D39}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5A4DB5-EDEE-47C7-8C93-C1365C937D39}|WindowsFormsApp3\\WindowsFormsApp3.csproj|c:\\belajar api\\windowsformsapp3\\windowsformsapp3\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5A4DB5-EDEE-47C7-8C93-C1365C937D39}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5A4DB5-EDEE-47C7-8C93-C1365C937D39}|WindowsFormsApp3\\WindowsFormsApp3.csproj|c:\\belajar api\\windowsformsapp3\\windowsformsapp3\\usercontrol1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5A4DB5-EDEE-47C7-8C93-C1365C937D39}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\usercontrol1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5A4DB5-EDEE-47C7-8C93-C1365C937D39}|WindowsFormsApp3\\WindowsFormsApp3.csproj|c:\\belajar api\\windowsformsapp3\\windowsformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD5A4DB5-EDEE-47C7-8C93-C1365C937D39}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 297,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControl2.Designer.cs",
+              "DocumentMoniker": "C:\\Belajar API\\WindowsFormsApp3\\WindowsFormsApp3\\UserControl2.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\UserControl2.Designer.cs",
+              "ToolTip": "C:\\Belajar API\\WindowsFormsApp3\\WindowsFormsApp3\\UserControl2.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp3\\UserControl2.Designer.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAArwPUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T04:20:03.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControl2.cs",
+              "DocumentMoniker": "C:\\Belajar API\\WindowsFormsApp3\\WindowsFormsApp3\\UserControl2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\UserControl2.cs",
+              "ToolTip": "C:\\Belajar API\\WindowsFormsApp3\\WindowsFormsApp3\\UserControl2.cs",
+              "RelativeToolTip": "WindowsFormsApp3\\UserControl2.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA0wEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T03:55:45.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserControl2.cs [Design]",
+              "DocumentMoniker": "C:\\Belajar API\\WindowsFormsApp3\\WindowsFormsApp3\\UserControl2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\UserControl2.cs",
+              "ToolTip": "C:\\Belajar API\\WindowsFormsApp3\\WindowsFormsApp3\\UserControl2.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp3\\UserControl2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T03:45:43.513Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Belajar API\\WindowsFormsApp3\\WindowsFormsApp3\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\Form1.cs",
+              "ToolTip": "C:\\Belajar API\\WindowsFormsApp3\\WindowsFormsApp3\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp3\\Form1.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T02:11:30.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Belajar API\\WindowsFormsApp3\\WindowsFormsApp3\\Form3.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\Form3.cs",
+              "ToolTip": "C:\\Belajar API\\WindowsFormsApp3\\WindowsFormsApp3\\Form3.cs",
+              "RelativeToolTip": "WindowsFormsApp3\\Form3.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T02:18:27.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Belajar API\\WindowsFormsApp3\\WindowsFormsApp3\\Model1.edmx",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\Model1.edmx",
+              "ToolTip": "C:\\Belajar API\\WindowsFormsApp3\\WindowsFormsApp3\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "WindowsFormsApp3\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-12-23T02:15:29.241Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Belajar API\\WindowsFormsApp3\\WindowsFormsApp3\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\Form2.cs",
+              "ToolTip": "C:\\Belajar API\\WindowsFormsApp3\\WindowsFormsApp3\\Form2.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp3\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T02:17:12.614Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserControl1.cs [Design]",
+              "DocumentMoniker": "C:\\Belajar API\\WindowsFormsApp3\\WindowsFormsApp3\\UserControl1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\UserControl1.cs",
+              "ToolTip": "C:\\Belajar API\\WindowsFormsApp3\\WindowsFormsApp3\\UserControl1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp3\\UserControl1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T02:38:29.47Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Belajar API\\WindowsFormsApp3\\WindowsFormsApp3\\Form3.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\Form3.cs",
+              "ToolTip": "C:\\Belajar API\\WindowsFormsApp3\\WindowsFormsApp3\\Form3.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp3\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T02:17:21.7Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Belajar API\\WindowsFormsApp3\\WindowsFormsApp3\\UserControl1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\UserControl1.cs",
+              "ToolTip": "C:\\Belajar API\\WindowsFormsApp3\\WindowsFormsApp3\\UserControl1.cs",
+              "RelativeToolTip": "WindowsFormsApp3\\UserControl1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T02:41:51.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserControl1.Designer.cs",
+              "DocumentMoniker": "C:\\Belajar API\\WindowsFormsApp3\\WindowsFormsApp3\\UserControl1.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\UserControl1.Designer.cs",
+              "ToolTip": "C:\\Belajar API\\WindowsFormsApp3\\WindowsFormsApp3\\UserControl1.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp3\\UserControl1.Designer.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAewLQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T03:12:46.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Belajar API\\WindowsFormsApp3\\WindowsFormsApp3\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\Form1.cs",
+              "ToolTip": "C:\\Belajar API\\WindowsFormsApp3\\WindowsFormsApp3\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T02:10:22.054Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
