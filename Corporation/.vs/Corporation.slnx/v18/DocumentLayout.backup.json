@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Devl\\Corporation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1DE42C-4FD8-4A8B-BB5A-9FF30FC4C509}|Corporation\\Corporation.csproj|d:\\devl\\corporation\\corporation\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D1DE42C-4FD8-4A8B-BB5A-9FF30FC4C509}|Corporation\\Corporation.csproj|solutionrelative:corporation\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1DE42C-4FD8-4A8B-BB5A-9FF30FC4C509}|Corporation\\Corporation.csproj|D:\\Devl\\Corporation\\corporation\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1DE42C-4FD8-4A8B-BB5A-9FF30FC4C509}|Corporation\\Corporation.csproj|solutionrelative:corporation\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1DE42C-4FD8-4A8B-BB5A-9FF30FC4C509}|Corporation\\Corporation.csproj|D:\\Devl\\Corporation\\corporation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1DE42C-4FD8-4A8B-BB5A-9FF30FC4C509}|Corporation\\Corporation.csproj|solutionrelative:corporation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1DE42C-4FD8-4A8B-BB5A-9FF30FC4C509}|Corporation\\Corporation.csproj|D:\\Devl\\Corporation\\corporation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D1DE42C-4FD8-4A8B-BB5A-9FF30FC4C509}|Corporation\\Corporation.csproj|solutionrelative:corporation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1DE42C-4FD8-4A8B-BB5A-9FF30FC4C509}|Corporation\\Corporation.csproj|D:\\Devl\\Corporation\\corporation\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1DE42C-4FD8-4A8B-BB5A-9FF30FC4C509}|Corporation\\Corporation.csproj|solutionrelative:corporation\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1DE42C-4FD8-4A8B-BB5A-9FF30FC4C509}|Corporation\\Corporation.csproj|D:\\Devl\\Corporation\\corporation\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D1DE42C-4FD8-4A8B-BB5A-9FF30FC4C509}|Corporation\\Corporation.csproj|solutionrelative:corporation\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1DE42C-4FD8-4A8B-BB5A-9FF30FC4C509}|Corporation\\Corporation.csproj|D:\\Devl\\Corporation\\corporation\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D1DE42C-4FD8-4A8B-BB5A-9FF30FC4C509}|Corporation\\Corporation.csproj|solutionrelative:corporation\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1DE42C-4FD8-4A8B-BB5A-9FF30FC4C509}|Corporation\\Corporation.csproj|D:\\Devl\\Corporation\\corporation\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1DE42C-4FD8-4A8B-BB5A-9FF30FC4C509}|Corporation\\Corporation.csproj|solutionrelative:corporation\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1DE42C-4FD8-4A8B-BB5A-9FF30FC4C509}|Corporation\\Corporation.csproj|D:\\Devl\\Corporation\\corporation\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1DE42C-4FD8-4A8B-BB5A-9FF30FC4C509}|Corporation\\Corporation.csproj|solutionrelative:corporation\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1DE42C-4FD8-4A8B-BB5A-9FF30FC4C509}|Corporation\\Corporation.csproj|D:\\Devl\\Corporation\\corporation\\form4.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{5D1DE42C-4FD8-4A8B-BB5A-9FF30FC4C509}|Corporation\\Corporation.csproj|solutionrelative:corporation\\form4.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1DE42C-4FD8-4A8B-BB5A-9FF30FC4C509}|Corporation\\Corporation.csproj|D:\\Devl\\Corporation\\corporation\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1DE42C-4FD8-4A8B-BB5A-9FF30FC4C509}|Corporation\\Corporation.csproj|solutionrelative:corporation\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 297,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Devl\\Corporation\\Corporation\\Form1.cs",
+              "RelativeDocumentMoniker": "Corporation\\Form1.cs",
+              "ToolTip": "D:\\Devl\\Corporation\\Corporation\\Form1.cs",
+              "RelativeToolTip": "Corporation\\Form1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwCIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T07:21:23.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Devl\\Corporation\\Corporation\\Form1.cs",
+              "RelativeDocumentMoniker": "Corporation\\Form1.cs",
+              "ToolTip": "D:\\Devl\\Corporation\\Corporation\\Form1.cs [Design]",
+              "RelativeToolTip": "Corporation\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T07:21:22.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "D:\\Devl\\Corporation\\Corporation\\Form4.cs",
+              "RelativeDocumentMoniker": "Corporation\\Form4.cs",
+              "ToolTip": "D:\\Devl\\Corporation\\Corporation\\Form4.cs",
+              "RelativeToolTip": "Corporation\\Form4.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAALcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T07:00:58.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "D:\\Devl\\Corporation\\Corporation\\Form5.cs",
+              "RelativeDocumentMoniker": "Corporation\\Form5.cs",
+              "ToolTip": "D:\\Devl\\Corporation\\Corporation\\Form5.cs",
+              "RelativeToolTip": "Corporation\\Form5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T06:59:43.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "D:\\Devl\\Corporation\\Corporation\\Form4.cs",
+              "RelativeDocumentMoniker": "Corporation\\Form4.cs",
+              "ToolTip": "D:\\Devl\\Corporation\\Corporation\\Form4.cs [Design]",
+              "RelativeToolTip": "Corporation\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T06:58:21.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "D:\\Devl\\Corporation\\Corporation\\Form3.cs",
+              "RelativeDocumentMoniker": "Corporation\\Form3.cs",
+              "ToolTip": "D:\\Devl\\Corporation\\Corporation\\Form3.cs [Design]",
+              "RelativeToolTip": "Corporation\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T07:03:11.017Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Devl\\Corporation\\Corporation\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Corporation\\Form1.Designer.cs",
+              "ToolTip": "D:\\Devl\\Corporation\\Corporation\\Form1.Designer.cs",
+              "RelativeToolTip": "Corporation\\Form1.Designer.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAtwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T07:21:40.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form4.resx",
+              "DocumentMoniker": "D:\\Devl\\Corporation\\Corporation\\Form4.resx",
+              "RelativeDocumentMoniker": "Corporation\\Form4.resx",
+              "ToolTip": "D:\\Devl\\Corporation\\Corporation\\Form4.resx",
+              "RelativeToolTip": "Corporation\\Form4.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-26T06:58:20.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form4.Designer.cs",
+              "DocumentMoniker": "D:\\Devl\\Corporation\\Corporation\\Form4.Designer.cs",
+              "RelativeDocumentMoniker": "Corporation\\Form4.Designer.cs",
+              "ToolTip": "D:\\Devl\\Corporation\\Corporation\\Form4.Designer.cs",
+              "RelativeToolTip": "Corporation\\Form4.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T06:58:18.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\Devl\\Corporation\\Corporation\\Form2.cs",
+              "RelativeDocumentMoniker": "Corporation\\Form2.cs",
+              "ToolTip": "D:\\Devl\\Corporation\\Corporation\\Form2.cs",
+              "RelativeToolTip": "Corporation\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T03:08:54.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "D:\\Devl\\Corporation\\Corporation\\Form5.cs",
+              "RelativeDocumentMoniker": "Corporation\\Form5.cs",
+              "ToolTip": "D:\\Devl\\Corporation\\Corporation\\Form5.cs [Design]",
+              "RelativeToolTip": "Corporation\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T06:57:44.439Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

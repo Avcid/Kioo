@@ -1,0 +1,17 @@
+D:\Devl\Corporation\Corporation\bin\Debug\Corporation.exe.config
+D:\Devl\Corporation\Corporation\bin\Debug\Corporation.exe
+D:\Devl\Corporation\Corporation\bin\Debug\Corporation.pdb
+D:\Devl\Corporation\Corporation\bin\Debug\EntityFramework.dll
+D:\Devl\Corporation\Corporation\bin\Debug\EntityFramework.xml
+D:\Devl\Corporation\Corporation\obj\Debug\Corporation.csproj.AssemblyReference.cache
+D:\Devl\Corporation\Corporation\obj\Debug\Corporation.Properties.Resources.resources
+D:\Devl\Corporation\Corporation\obj\Debug\Corporation.csproj.GenerateResource.cache
+D:\Devl\Corporation\Corporation\obj\Debug\Corporation.csproj.CoreCompileInputs.cache
+D:\Devl\Corporation\Corporation\obj\Debug\Corporat.9E0CC779.Up2Date
+D:\Devl\Corporation\Corporation\obj\Debug\Corporation.exe
+D:\Devl\Corporation\Corporation\obj\Debug\Corporation.pdb
+D:\Devl\Corporation\Corporation\obj\Debug\Corporation.Form1.resources
+D:\Devl\Corporation\Corporation\obj\Debug\Corporation.Form2.resources
+D:\Devl\Corporation\Corporation\obj\Debug\Corporation.Form3.resources
+D:\Devl\Corporation\Corporation\obj\Debug\Corporation.Form4.resources
+D:\Devl\Corporation\Corporation\obj\Debug\Corporation.Form5.resources
