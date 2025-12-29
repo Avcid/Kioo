@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tuags dari mas kevin\\SimulasiWebaPI_06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F99AF51B-31F7-58A1-5B3C-04AD88931FFC}|SimulasiWebaPI_06\\SimulasiWebaPI_06.csproj|d:\\tuags dari mas kevin\\simulasiwebapi_06\\simulasiwebapi_06\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99AF51B-31F7-58A1-5B3C-04AD88931FFC}|SimulasiWebaPI_06\\SimulasiWebaPI_06.csproj|solutionrelative:simulasiwebapi_06\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99AF51B-31F7-58A1-5B3C-04AD88931FFC}|SimulasiWebaPI_06\\SimulasiWebaPI_06.csproj|d:\\tuags dari mas kevin\\simulasiwebapi_06\\simulasiwebapi_06\\controllers\\shedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99AF51B-31F7-58A1-5B3C-04AD88931FFC}|SimulasiWebaPI_06\\SimulasiWebaPI_06.csproj|solutionrelative:simulasiwebapi_06\\controllers\\shedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99AF51B-31F7-58A1-5B3C-04AD88931FFC}|SimulasiWebaPI_06\\SimulasiWebaPI_06.csproj|d:\\tuags dari mas kevin\\simulasiwebapi_06\\simulasiwebapi_06\\dto\\signindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99AF51B-31F7-58A1-5B3C-04AD88931FFC}|SimulasiWebaPI_06\\SimulasiWebaPI_06.csproj|solutionrelative:simulasiwebapi_06\\dto\\signindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99AF51B-31F7-58A1-5B3C-04AD88931FFC}|SimulasiWebaPI_06\\SimulasiWebaPI_06.csproj|d:\\tuags dari mas kevin\\simulasiwebapi_06\\simulasiwebapi_06\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99AF51B-31F7-58A1-5B3C-04AD88931FFC}|SimulasiWebaPI_06\\SimulasiWebaPI_06.csproj|solutionrelative:simulasiwebapi_06\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99AF51B-31F7-58A1-5B3C-04AD88931FFC}|SimulasiWebaPI_06\\SimulasiWebaPI_06.csproj|d:\\tuags dari mas kevin\\simulasiwebapi_06\\simulasiwebapi_06\\models\\moviegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99AF51B-31F7-58A1-5B3C-04AD88931FFC}|SimulasiWebaPI_06\\SimulasiWebaPI_06.csproj|solutionrelative:simulasiwebapi_06\\models\\moviegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99AF51B-31F7-58A1-5B3C-04AD88931FFC}|SimulasiWebaPI_06\\SimulasiWebaPI_06.csproj|d:\\tuags dari mas kevin\\simulasiwebapi_06\\simulasiwebapi_06\\dto\\moviedetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99AF51B-31F7-58A1-5B3C-04AD88931FFC}|SimulasiWebaPI_06\\SimulasiWebaPI_06.csproj|solutionrelative:simulasiwebapi_06\\dto\\moviedetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99AF51B-31F7-58A1-5B3C-04AD88931FFC}|SimulasiWebaPI_06\\SimulasiWebaPI_06.csproj|d:\\tuags dari mas kevin\\simulasiwebapi_06\\simulasiwebapi_06\\controllers\\movielistdelaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99AF51B-31F7-58A1-5B3C-04AD88931FFC}|SimulasiWebaPI_06\\SimulasiWebaPI_06.csproj|solutionrelative:simulasiwebapi_06\\controllers\\movielistdelaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99AF51B-31F7-58A1-5B3C-04AD88931FFC}|SimulasiWebaPI_06\\SimulasiWebaPI_06.csproj|d:\\tuags dari mas kevin\\simulasiwebapi_06\\simulasiwebapi_06\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99AF51B-31F7-58A1-5B3C-04AD88931FFC}|SimulasiWebaPI_06\\SimulasiWebaPI_06.csproj|solutionrelative:simulasiwebapi_06\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99AF51B-31F7-58A1-5B3C-04AD88931FFC}|SimulasiWebaPI_06\\SimulasiWebaPI_06.csproj|d:\\tuags dari mas kevin\\simulasiwebapi_06\\simulasiwebapi_06\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99AF51B-31F7-58A1-5B3C-04AD88931FFC}|SimulasiWebaPI_06\\SimulasiWebaPI_06.csproj|solutionrelative:simulasiwebapi_06\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99AF51B-31F7-58A1-5B3C-04AD88931FFC}|SimulasiWebaPI_06\\SimulasiWebaPI_06.csproj|d:\\tuags dari mas kevin\\simulasiwebapi_06\\simulasiwebapi_06\\models\\cinemaapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99AF51B-31F7-58A1-5B3C-04AD88931FFC}|SimulasiWebaPI_06\\SimulasiWebaPI_06.csproj|solutionrelative:simulasiwebapi_06\\models\\cinemaapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99AF51B-31F7-58A1-5B3C-04AD88931FFC}|SimulasiWebaPI_06\\SimulasiWebaPI_06.csproj|d:\\tuags dari mas kevin\\simulasiwebapi_06\\simulasiwebapi_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99AF51B-31F7-58A1-5B3C-04AD88931FFC}|SimulasiWebaPI_06\\SimulasiWebaPI_06.csproj|solutionrelative:simulasiwebapi_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieGenre.cs",
+              "DocumentMoniker": "D:\\tuags dari mas kevin\\SimulasiWebaPI_06\\SimulasiWebaPI_06\\Models\\MovieGenre.cs",
+              "RelativeDocumentMoniker": "SimulasiWebaPI_06\\Models\\MovieGenre.cs",
+              "ToolTip": "D:\\tuags dari mas kevin\\SimulasiWebaPI_06\\SimulasiWebaPI_06\\Models\\MovieGenre.cs",
+              "RelativeToolTip": "SimulasiWebaPI_06\\Models\\MovieGenre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T03:43:00.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\tuags dari mas kevin\\SimulasiWebaPI_06\\SimulasiWebaPI_06\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "SimulasiWebaPI_06\\Models\\Movie.cs",
+              "ToolTip": "D:\\tuags dari mas kevin\\SimulasiWebaPI_06\\SimulasiWebaPI_06\\Models\\Movie.cs",
+              "RelativeToolTip": "SimulasiWebaPI_06\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T03:42:34.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SheduleController.cs",
+              "DocumentMoniker": "D:\\tuags dari mas kevin\\SimulasiWebaPI_06\\SimulasiWebaPI_06\\Controllers\\SheduleController.cs",
+              "RelativeDocumentMoniker": "SimulasiWebaPI_06\\Controllers\\SheduleController.cs",
+              "ToolTip": "D:\\tuags dari mas kevin\\SimulasiWebaPI_06\\SimulasiWebaPI_06\\Controllers\\SheduleController.cs*",
+              "RelativeToolTip": "SimulasiWebaPI_06\\Controllers\\SheduleController.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T03:00:00.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignInDto.cs",
+              "DocumentMoniker": "D:\\tuags dari mas kevin\\SimulasiWebaPI_06\\SimulasiWebaPI_06\\DTO\\SignInDto.cs",
+              "RelativeDocumentMoniker": "SimulasiWebaPI_06\\DTO\\SignInDto.cs",
+              "ToolTip": "D:\\tuags dari mas kevin\\SimulasiWebaPI_06\\SimulasiWebaPI_06\\DTO\\SignInDto.cs*",
+              "RelativeToolTip": "SimulasiWebaPI_06\\DTO\\SignInDto.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T01:18:07.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\tuags dari mas kevin\\SimulasiWebaPI_06\\SimulasiWebaPI_06\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SimulasiWebaPI_06\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\tuags dari mas kevin\\SimulasiWebaPI_06\\SimulasiWebaPI_06\\Controllers\\AuthController.cs*",
+              "RelativeToolTip": "SimulasiWebaPI_06\\Controllers\\AuthController.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T01:14:36.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieListDelaiController.cs",
+              "DocumentMoniker": "D:\\tuags dari mas kevin\\SimulasiWebaPI_06\\SimulasiWebaPI_06\\Controllers\\MovieListDelaiController.cs",
+              "RelativeDocumentMoniker": "SimulasiWebaPI_06\\Controllers\\MovieListDelaiController.cs",
+              "ToolTip": "D:\\tuags dari mas kevin\\SimulasiWebaPI_06\\SimulasiWebaPI_06\\Controllers\\MovieListDelaiController.cs",
+              "RelativeToolTip": "SimulasiWebaPI_06\\Controllers\\MovieListDelaiController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAuwE0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T02:29:56.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieDetailDto.cs",
+              "DocumentMoniker": "D:\\tuags dari mas kevin\\SimulasiWebaPI_06\\SimulasiWebaPI_06\\DTO\\MovieDetailDto.cs",
+              "RelativeDocumentMoniker": "SimulasiWebaPI_06\\DTO\\MovieDetailDto.cs",
+              "ToolTip": "D:\\tuags dari mas kevin\\SimulasiWebaPI_06\\SimulasiWebaPI_06\\DTO\\MovieDetailDto.cs",
+              "RelativeToolTip": "SimulasiWebaPI_06\\DTO\\MovieDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T02:30:44.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "D:\\tuags dari mas kevin\\SimulasiWebaPI_06\\SimulasiWebaPI_06\\Models\\Schedule.cs",
+              "RelativeDocumentMoniker": "SimulasiWebaPI_06\\Models\\Schedule.cs",
+              "ToolTip": "D:\\tuags dari mas kevin\\SimulasiWebaPI_06\\SimulasiWebaPI_06\\Models\\Schedule.cs",
+              "RelativeToolTip": "SimulasiWebaPI_06\\Models\\Schedule.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T03:36:40.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenreController.cs",
+              "DocumentMoniker": "D:\\tuags dari mas kevin\\SimulasiWebaPI_06\\SimulasiWebaPI_06\\Controllers\\GenreController.cs",
+              "RelativeDocumentMoniker": "SimulasiWebaPI_06\\Controllers\\GenreController.cs",
+              "ToolTip": "D:\\tuags dari mas kevin\\SimulasiWebaPI_06\\SimulasiWebaPI_06\\Controllers\\GenreController.cs",
+              "RelativeToolTip": "SimulasiWebaPI_06\\Controllers\\GenreController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T02:11:20.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tuags dari mas kevin\\SimulasiWebaPI_06\\SimulasiWebaPI_06\\Program.cs",
+              "RelativeDocumentMoniker": "SimulasiWebaPI_06\\Program.cs",
+              "ToolTip": "D:\\tuags dari mas kevin\\SimulasiWebaPI_06\\SimulasiWebaPI_06\\Program.cs",
+              "RelativeToolTip": "SimulasiWebaPI_06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T01:15:31.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CinemaApiContext.cs",
+              "DocumentMoniker": "D:\\tuags dari mas kevin\\SimulasiWebaPI_06\\SimulasiWebaPI_06\\Models\\CinemaApiContext.cs",
+              "RelativeDocumentMoniker": "SimulasiWebaPI_06\\Models\\CinemaApiContext.cs",
+              "ToolTip": "D:\\tuags dari mas kevin\\SimulasiWebaPI_06\\SimulasiWebaPI_06\\Models\\CinemaApiContext.cs",
+              "RelativeToolTip": "SimulasiWebaPI_06\\Models\\CinemaApiContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAhwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T01:55:03.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

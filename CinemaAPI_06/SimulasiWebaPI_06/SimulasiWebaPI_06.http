@@ -1,0 +1,6 @@
+@SimulasiWebaPI_06_HostAddress = http://localhost:5240
+
+GET {{SimulasiWebaPI_06_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
