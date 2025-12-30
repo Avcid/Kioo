@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Devl\\SimulasiAkhir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C65FC8A-45B7-47D0-A62E-29BB2DCD2BCD}|SimulasiAkhir\\SimulasiAkhir.csproj|d:\\devl\\simulasiakhir\\simulasiakhir\\controllers\\loyaltiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C65FC8A-45B7-47D0-A62E-29BB2DCD2BCD}|SimulasiAkhir\\SimulasiAkhir.csproj|solutionrelative:simulasiakhir\\controllers\\loyaltiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C65FC8A-45B7-47D0-A62E-29BB2DCD2BCD}|SimulasiAkhir\\SimulasiAkhir.csproj|d:\\devl\\simulasiakhir\\simulasiakhir\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C65FC8A-45B7-47D0-A62E-29BB2DCD2BCD}|SimulasiAkhir\\SimulasiAkhir.csproj|solutionrelative:simulasiakhir\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C65FC8A-45B7-47D0-A62E-29BB2DCD2BCD}|SimulasiAkhir\\SimulasiAkhir.csproj|d:\\devl\\simulasiakhir\\simulasiakhir\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C65FC8A-45B7-47D0-A62E-29BB2DCD2BCD}|SimulasiAkhir\\SimulasiAkhir.csproj|solutionrelative:simulasiakhir\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C65FC8A-45B7-47D0-A62E-29BB2DCD2BCD}|SimulasiAkhir\\SimulasiAkhir.csproj|d:\\devl\\simulasiakhir\\simulasiakhir\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C65FC8A-45B7-47D0-A62E-29BB2DCD2BCD}|SimulasiAkhir\\SimulasiAkhir.csproj|solutionrelative:simulasiakhir\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C65FC8A-45B7-47D0-A62E-29BB2DCD2BCD}|SimulasiAkhir\\SimulasiAkhir.csproj|d:\\devl\\simulasiakhir\\simulasiakhir\\dtos\\loyalitiesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C65FC8A-45B7-47D0-A62E-29BB2DCD2BCD}|SimulasiAkhir\\SimulasiAkhir.csproj|solutionrelative:simulasiakhir\\dtos\\loyalitiesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C65FC8A-45B7-47D0-A62E-29BB2DCD2BCD}|SimulasiAkhir\\SimulasiAkhir.csproj|d:\\devl\\simulasiakhir\\simulasiakhir\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C65FC8A-45B7-47D0-A62E-29BB2DCD2BCD}|SimulasiAkhir\\SimulasiAkhir.csproj|solutionrelative:simulasiakhir\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C65FC8A-45B7-47D0-A62E-29BB2DCD2BCD}|SimulasiAkhir\\SimulasiAkhir.csproj|d:\\devl\\simulasiakhir\\simulasiakhir\\models\\loyalty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C65FC8A-45B7-47D0-A62E-29BB2DCD2BCD}|SimulasiAkhir\\SimulasiAkhir.csproj|solutionrelative:simulasiakhir\\models\\loyalty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C65FC8A-45B7-47D0-A62E-29BB2DCD2BCD}|SimulasiAkhir\\SimulasiAkhir.csproj|d:\\devl\\simulasiakhir\\simulasiakhir\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C65FC8A-45B7-47D0-A62E-29BB2DCD2BCD}|SimulasiAkhir\\SimulasiAkhir.csproj|solutionrelative:simulasiakhir\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C65FC8A-45B7-47D0-A62E-29BB2DCD2BCD}|SimulasiAkhir\\SimulasiAkhir.csproj|d:\\devl\\simulasiakhir\\simulasiakhir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C65FC8A-45B7-47D0-A62E-29BB2DCD2BCD}|SimulasiAkhir\\SimulasiAkhir.csproj|solutionrelative:simulasiakhir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Devl\\SimulasiAkhir\\SimulasiAkhir\\Models\\EsemkaOnePlusContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SimulasiAkhir\\Models\\EsemkaOnePlusContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoyaltiesController.cs",
+              "DocumentMoniker": "D:\\Devl\\SimulasiAkhir\\SimulasiAkhir\\Controllers\\LoyaltiesController.cs",
+              "RelativeDocumentMoniker": "SimulasiAkhir\\Controllers\\LoyaltiesController.cs",
+              "ToolTip": "D:\\Devl\\SimulasiAkhir\\SimulasiAkhir\\Controllers\\LoyaltiesController.cs",
+              "RelativeToolTip": "SimulasiAkhir\\Controllers\\LoyaltiesController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAiwE4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T02:57:49.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Devl\\SimulasiAkhir\\SimulasiAkhir\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "SimulasiAkhir\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Devl\\SimulasiAkhir\\SimulasiAkhir\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "SimulasiAkhir\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAD4v1wAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T01:48:10.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\Devl\\SimulasiAkhir\\SimulasiAkhir\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "SimulasiAkhir\\DTOs\\LoginDTO.cs",
+              "ToolTip": "D:\\Devl\\SimulasiAkhir\\SimulasiAkhir\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "SimulasiAkhir\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T01:19:52.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoyalitiesDTO.cs",
+              "DocumentMoniker": "D:\\Devl\\SimulasiAkhir\\SimulasiAkhir\\DTOs\\LoyalitiesDTO.cs",
+              "RelativeDocumentMoniker": "SimulasiAkhir\\DTOs\\LoyalitiesDTO.cs",
+              "ToolTip": "D:\\Devl\\SimulasiAkhir\\SimulasiAkhir\\DTOs\\LoyalitiesDTO.cs",
+              "RelativeToolTip": "SimulasiAkhir\\DTOs\\LoyalitiesDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T03:08:34.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "D:\\Devl\\SimulasiAkhir\\SimulasiAkhir\\DTOs\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "SimulasiAkhir\\DTOs\\CustomerDTO.cs",
+              "ToolTip": "D:\\Devl\\SimulasiAkhir\\SimulasiAkhir\\DTOs\\CustomerDTO.cs",
+              "RelativeToolTip": "SimulasiAkhir\\DTOs\\CustomerDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T01:49:55.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Devl\\SimulasiAkhir\\SimulasiAkhir\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SimulasiAkhir\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Devl\\SimulasiAkhir\\SimulasiAkhir\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SimulasiAkhir\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAIAwwCsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T01:15:58.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Loyalty.cs",
+              "DocumentMoniker": "D:\\Devl\\SimulasiAkhir\\SimulasiAkhir\\Models\\Loyalty.cs",
+              "RelativeDocumentMoniker": "SimulasiAkhir\\Models\\Loyalty.cs",
+              "ToolTip": "D:\\Devl\\SimulasiAkhir\\SimulasiAkhir\\Models\\Loyalty.cs",
+              "RelativeToolTip": "SimulasiAkhir\\Models\\Loyalty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T03:08:39.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Devl\\SimulasiAkhir\\SimulasiAkhir\\Program.cs",
+              "RelativeDocumentMoniker": "SimulasiAkhir\\Program.cs",
+              "ToolTip": "D:\\Devl\\SimulasiAkhir\\SimulasiAkhir\\Program.cs",
+              "RelativeToolTip": "SimulasiAkhir\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEIAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T01:18:07.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Devl\\SimulasiAkhir\\SimulasiAkhir\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "SimulasiAkhir\\Models\\Customer.cs",
+              "ToolTip": "D:\\Devl\\SimulasiAkhir\\SimulasiAkhir\\Models\\Customer.cs",
+              "RelativeToolTip": "SimulasiAkhir\\Models\\Customer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwCMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T01:20:02.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EsemkaOnePlusContext.cs",
+              "DocumentMoniker": "D:\\Devl\\SimulasiAkhir\\SimulasiAkhir\\Models\\EsemkaOnePlusContext.cs",
+              "RelativeDocumentMoniker": "SimulasiAkhir\\Models\\EsemkaOnePlusContext.cs",
+              "ToolTip": "D:\\Devl\\SimulasiAkhir\\SimulasiAkhir\\Models\\EsemkaOnePlusContext.cs",
+              "RelativeToolTip": "SimulasiAkhir\\Models\\EsemkaOnePlusContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T01:14:12.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
