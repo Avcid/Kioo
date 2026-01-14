@@ -1,0 +1,40 @@
+D:\tuags dari mas kevin\bandara\bandara\bin\Debug\bandara.exe.config
+D:\tuags dari mas kevin\bandara\bandara\bin\Debug\bandara.exe
+D:\tuags dari mas kevin\bandara\bandara\bin\Debug\bandara.pdb
+D:\tuags dari mas kevin\bandara\bandara\bin\Debug\EntityFramework.dll
+D:\tuags dari mas kevin\bandara\bandara\bin\Debug\EntityFramework.xml
+D:\tuags dari mas kevin\bandara\bandara\obj\Debug\bandara.csproj.AssemblyReference.cache
+D:\tuags dari mas kevin\bandara\bandara\obj\Debug\bandara.Form1.resources
+D:\tuags dari mas kevin\bandara\bandara\obj\Debug\bandara.Form2.resources
+D:\tuags dari mas kevin\bandara\bandara\obj\Debug\bandara.Properties.Resources.resources
+D:\tuags dari mas kevin\bandara\bandara\obj\Debug\bandara.csproj.GenerateResource.cache
+D:\tuags dari mas kevin\bandara\bandara\obj\Debug\bandara.csproj.CoreCompileInputs.cache
+D:\tuags dari mas kevin\bandara\bandara\obj\Debug\bandara.csproj.Up2Date
+D:\tuags dari mas kevin\bandara\bandara\obj\Debug\bandara.exe
+D:\tuags dari mas kevin\bandara\bandara\obj\Debug\bandara.pdb
+D:\tuags dari mas kevin\bandara\bandara\obj\Debug\bandara.Form3.resources
+D:\tuags dari mas kevin\bandara\bandara\obj\Debug\bandara.UserControl1.resources
+D:\tuags dari mas kevin\bandara\bandara\obj\Debug\bandara.UserControl2.resources
+D:\tuags dari mas kevin\bandara\bandara\obj\Debug\bandara.UserControl3.resources
+D:\tuags dari mas kevin\bandara\bandara\obj\Debug\bandara.UserControl4.resources
+D:\tuags dari mas kevin\bandara\bandara\obj\Debug\bandara.UserControl5.resources
+D:\Dev\bandara\bandara\bandara\bin\Debug\bandara.exe.config
+D:\Dev\bandara\bandara\bandara\bin\Debug\bandara.exe
+D:\Dev\bandara\bandara\bandara\bin\Debug\bandara.pdb
+D:\Dev\bandara\bandara\bandara\bin\Debug\EntityFramework.dll
+D:\Dev\bandara\bandara\bandara\bin\Debug\EntityFramework.xml
+D:\Dev\bandara\bandara\bandara\obj\Debug\bandara.csproj.AssemblyReference.cache
+D:\Dev\bandara\bandara\bandara\obj\Debug\bandara.Form1.resources
+D:\Dev\bandara\bandara\bandara\obj\Debug\bandara.Form2.resources
+D:\Dev\bandara\bandara\bandara\obj\Debug\bandara.Form3.resources
+D:\Dev\bandara\bandara\bandara\obj\Debug\bandara.Properties.Resources.resources
+D:\Dev\bandara\bandara\bandara\obj\Debug\bandara.UserControl1.resources
+D:\Dev\bandara\bandara\bandara\obj\Debug\bandara.UserControl2.resources
+D:\Dev\bandara\bandara\bandara\obj\Debug\bandara.UserControl3.resources
+D:\Dev\bandara\bandara\bandara\obj\Debug\bandara.UserControl4.resources
+D:\Dev\bandara\bandara\bandara\obj\Debug\bandara.UserControl5.resources
+D:\Dev\bandara\bandara\bandara\obj\Debug\bandara.csproj.GenerateResource.cache
+D:\Dev\bandara\bandara\bandara\obj\Debug\bandara.csproj.CoreCompileInputs.cache
+D:\Dev\bandara\bandara\bandara\obj\Debug\bandara.csproj.Up2Date
+D:\Dev\bandara\bandara\bandara\obj\Debug\bandara.exe
+D:\Dev\bandara\bandara\bandara\obj\Debug\bandara.pdb
